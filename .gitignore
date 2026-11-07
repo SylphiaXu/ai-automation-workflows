@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+data/private/
+outputs/
+.DS_Store
+Thumbs.db
